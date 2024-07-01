@@ -1,0 +1,2451 @@
+@media screen and (max-width:770px) {
+  .inner_contact {
+    flex-basis: 100%;
+    margin-bottom: 30px;
+  }
+  
+}
+
+@media  screen and (max-width:992px) {
+  .btn-text {
+    font-weight: 700;
+    color: deepskyblue;
+   overflow-y: scroll; 
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .footer-col {
+  width: 100%;
+  padding: 0 15px;
+  
+}
+
+.footer-yasal {
+  width:100%;
+text-align: center;
+padding-left: 0px !important;
+padding-top: 61px;
+color: lavender;
+}
+}
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 769px) {
+
+  .col-12 { flex: 100% !important;
+max-width: 100% !important; }
+  .col-9 { flex: 100% !important;
+    max-width: 100% !important; }
+  .col-8 { flex: 100% !important;
+    max-width: 100% !important; }
+  .col-7 { flex: 100% !important;
+    max-width: 100% !important; }
+  .col-6 { flex: 100% !important;
+    max-width: 100% !important; }
+  .col-5 { flex: 100% !important;
+    max-width: 100% !important; }
+  .col-4 { flex: 100% !important;
+    max-width: 100% !important; padding: 20px !important;}
+  .col-3 { flex: 100% !important;
+    max-width: 100% !important; padding: 20px !important;}
+  .col-2 { flex: 100% !important;
+    max-width: 100% !important; padding: 20px !important;}
+  .col-1 { flex: 100% !important;
+    max-width: 100% !important; padding: 20px !important;}
+    body {
+      margin: 5px 0 !important;
+    }
+  .float {
+  position:fixed;
+  width:60px !important;
+  height:60px;
+  bottom:40px;
+  right:40px;
+  background-color:#25d366;
+  color:#FFF;
+  border-radius:50px;
+  text-align:center;
+  font-size:30px;
+  box-shadow: 2px 2px 3px #999;
+  z-index:100;
+  }
+  .btnSevap {
+      width: 100% !important;
+      height: 67px;
+      margin-top: 30px;
+      font-weight: bold;
+      background: darkblue;
+      display: inline;
+      color: white;
+      float: left;
+  }
+  .index {
+      font-weight: bold;
+      width: 100% !important;
+      height: 30px;
+      border: 2px solid teal;
+      display: inline;
+      border-style: dashed;
+      margin: 20px 0; 
+      color: darkblue;
+  }
+  
+  .sevap-box {
+      box-shadow: 11px 11px 11px #000;
+      width: 100% !important;
+      margin-top: 63px ;
+      height: 551px !important;
+      font: 14px Arial, Helvetica, sans-serif;
+      background: white;
+  }
+  .box-sevap {
+      box-shadow: 5px 5px 7px #000;
+      width: 100% !important;
+      height: 500px !important;
+      font: 14px Arial, Helvetica, sans-serif;
+      background: white;
+  }
+  .list-box {
+      box-shadow: 5px 5px 7px #000;
+      width: 100% !important;
+      height: 350px !important;
+      font: 14px Arial, Helvetica, sans-serif;
+      background: white;
+  }
+
+  
+  #box-3-img {
+      width: 100% !important;
+      
+  
+  }
+  .box-3p {
+      float: left;
+      text-indent: 10px;
+      padding-top: 10px;
+      text-align: justify;
+      color: cornflowerblue;
+      box-shadow: 5px 5px 7px #000;
+      width: 100% !important;
+      height: 300px;
+      line-height: 1.1;
+      font: 17px Arial, Helvetica, sans-serif;
+      background: white;
+      overflow-y: scroll;
+  }
+  .end-img {
+      width: 100% !important;
+      height: 300px;
+      position: relative;
+      float: left;
+  }
+  .sevap-img {
+      width: 100% !important;
+      height: 500px;
+      display: block;
+      margin: 0 auto;
+      margin-top: 30px;
+      margin-bottom: 20px;
+  }
+  .btnSevap {
+      width: 100% !important;
+      height: 67px;
+     margin: 10px 0;
+      font-weight: bold;
+      background: darkblue;
+      display: inline;
+      color: white;
+      float: left;
+  }
+  .input {
+      width: 100% !important;
+      height: 30px;
+      border: 2px solid teal;
+      display: inline;
+      border-style: dashed;
+      margin-left: 100px;
+      font-weight: bold;
+      color: darkblue;
+  margin-top: 10px ;
+    }
+
+  .lira {
+      font-weight: bold;
+      width: 100% !important;
+      height: 35px;
+      background: white;
+      color: darkblue;
+      text-align: center;
+      margin-top: 5px;
+      margin-bottom: 5px;
+      border-radius: 500px;
+      display: inline-block;
+      margin-right: 15px;
+      font-size: 15px;
+  }
+  #box-img {
+      width: 100% !important;
+      height: 350px;
+      border-radius: 10px;
+  }
+  
+  h1 {
+   width: 100% !important;
+    padding: 10px;
+      color: seagreen;
+  
+      text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+      text-align: center;
+  }
+  
+  .bagis-türü {
+      font-weight: bold;
+  width: 100% !important;
+    }
+    .multi-box-input {
+      width:100% !important;
+      height: 37px;
+      margin-top: 31px;
+  }
+  .multi-box-button {
+      background: darkblue;
+      margin-top: 41px;
+      width: 100% !important;
+      height: 37px;
+      color: white;
+  }
+  .multi-box-moneybox {
+      width: 100% !important;
+      height: 309px;
+      display: block;
+      margin: 0 auto;
+      margin-top: 33px;
+    
+  }
+  
+  .card-img {
+      width: 100% !important;
+      height: 455px !important;
+      border-radius: calc(0.25rem - 1px);
+  }
+  .heart-text {
+      opacity: 0.5;
+      background-size: cover;
+      background-repeat: no-repeat;
+      width: 100% !important;
+      height: 457px;
+  }
+  
+  .sevap-etkinlik1 {
+      width:100% !important;
+      height: 200px;
+      float: left;
+
+  
+  }
+  
+  .night {
+      position: relative;
+      float: right;
+      background-size: cover;
+      background-repeat: no-repeat;
+      width: 100% !important;
+      height: 251x;
+  }
+  .night-light1 {
+      width: 25% !important;
+      height: 200px;
+      float: left;
+     margin: 15px 0 !important;
+  }
+  .night-light2 {
+      width: 25% !important;
+      height: 200px;
+      float: left;
+      margin-top: 15px !important;
+      margin-bottom: 15px !important;
+      margin-left: 13px;
+  }
+  
+  .night-light3 {
+      width: 25% !important;
+      height: 200px;
+  
+     margin: 15px 0 !important;
+      
+  }
+  .activity-box-img {
+      position: relative;
+      width: 100% !important;
+      height: 251px;
+  }
+  .parilti-btn {
+      width:100% !important;
+      height: 39px;
+      font-size: 12px;
+      margin-bottom: 19px;
+  }
+  .img-1 {
+      width: 100% !important;
+      height: 221px;
+      position: relative;
+  clear: both;
+  }
+  .btn-1 {
+      width: 100% !important;
+      height: 63px;
+      font: 12px Arial, Helvetica, sans-serif;
+      font-size: medium;
+      color: white;
+      background: cornflowerblue;
+      position: relative;
+      float: left;
+      display: block;
+  }
+  .input-1 {
+      font-weight: bold;
+      position: relative;
+      float: left;
+      margin-top: 25px;
+      text-align: center;
+      width: 100%;
+      height: 35px;
+      border: 0px;
+      border-bottom: 1px solid darkblue;
+  }
+  .img-2 {
+      width: 100% !important;
+      height: 221px;
+      position: relative;
+      float: left;
+  }
+  .img-3 {
+      width: 100% !important;
+      height: 221px;
+      position: relative;
+      float: left;
+  }
+  .footer-col{
+          margin-bottom: 30px !important;
+  
+      }
+      
+      .box-badge3{
+        display: none;
+      }
+   
+}
+@media screen and (max-width: 420px) {
+          .multi-box1,
+          .multi-box2,
+          .multi-box3,
+          .multi-box4,
+          .multi-box5,
+          .multi-box6
+           {
+          width: 80%;
+          margin: 10px 10%;
+        }
+  
+  
+        .div-1,
+        .div-2,
+        .div-3 {
+          margin: 0 auto;
+         
+  
+        }
+        .box-sevap{
+        overflow-x: scroll; 
+        }
+        .btn-text{
+          overflow-x: scroll;
+        }
+
+}
+
+             
+  
+  
+  html{
+    scroll-behavior: smooth;
+  }
+  
+        body {
+          background: seashell;
+          position: relative;
+          padding: 0px;
+          margin: 0px;
+          
+          line-height: 1.5;
+  
+        }
+        *{
+          box-sizing: border-box;
+        }
+        .message{
+          position: fixed;
+      
+          bottom: 359px;
+          right: 40px;
+      
+          color: #FFF;
+      
+          z-index: 100;
+        }
+        .float {
+              position: fixed;
+              width: 60px;
+              height: 60px;
+              bottom: 40px;
+              right: 40px;
+              background-color: #25d366;
+              color: #FFF;
+              border-radius: 50px;
+              text-align: center;
+              font-size: 30px;
+              box-shadow: 2px 2px 3px #999;
+              z-index: 100;
+          }
+  
+          .my-float {
+              margin-top: 16px;
+          }
+      .list-box button{
+        margin: 10px 0;
+      } 
+  
+        .bagisimg {
+          width: 100%;
+          height: 500px;
+          
+        }
+  
+      
+  
+        .index {
+          font-weight: bold;
+          width: 50%;
+          height: 30px;
+          border: 2px solid teal;
+          display: inline;
+          border-style: dashed;
+          margin-left: 100px;
+          color: darkblue;
+          margin: 5px 0;
+        }
+  
+
+  
+  
+        #box-3-img {
+          width: 100%;
+          height: 300px;
+          float: left;
+        }
+  
+        #box-3p {
+          float: left;
+          text-indent: 10px;
+          padding-top: 10px;
+          text-align: justify;
+          color: cornflowerblue;
+          box-shadow: 5px 5px 7px #000;
+          width: 100%;
+          height: 300px;
+  line-height: 2.1;
+          font: 17px Arial, Helvetica, sans-serif;
+          background: white;
+  
+        }
+  
+        #box-img {
+          width: 100%;
+          height: 350px;
+          border-radius: 10px;
+        }
+  
+        .end-img {
+          width: 100%;
+          height: 300px;
+          position: relative;
+          float: left;
+        }
+  
+    #list input,label{
+      line-height: 1.9;
+    }
+    .size-select{
+      width: 29%;
+    }
+  
+        #vehicle1 {
+          cursor: pointer;
+          margin-left: 11px;
+
+        }
+  
+        #vehicle2 {
+          cursor: pointer;
+          margin-left: 11px;
+        }
+  
+        #vehicle3 {
+          cursor: pointer;
+          margin-left: 11px;
+        }
+  
+        #vehicle4 {
+          cursor: pointer;
+          margin-left: 11px;
+        }
+  
+        #vehicle5 {
+          cursor: pointer;
+          margin-left: 11px;
+        }
+  
+        #vehicle6 {
+          cursor: pointer;
+          margin-left: 11px;
+        }
+  
+        .sevap-box{
+          box-shadow: 11px 11px 11px #000;
+        width: 251px;
+        height:auto;
+        
+        font: 14px Arial, Helvetica, sans-serif; 
+        background: white;
+        }
+  
+      
+  .box-sevap{
+    box-shadow: 5px 5px 7px #000;
+        width: 251px;
+        height: 350px;
+        
+        font: 14px Arial, Helvetica, sans-serif; background: white;
+  }
+      
+  
+        .btnSevap:hover {
+  
+          font-size: 17px;
+          color: white;
+  
+          background: darkblue
+        }
+  
+        .btnSevap {
+          width: 71%;
+          height: 67px;
+          margin-top: 30px;
+          font-weight: bold;
+          background: darkblue;
+          display: inline;
+          color: white;
+          float: left;
+          font-size: 25px;
+        }
+  
+        .lira {
+          font-weight: bold;
+          width: 25%;
+          height: 35px;
+          background: white;
+          color: darkblue;
+          text-align: center;
+          margin-top: 10px;
+          margin-bottom: 5px;
+          border-radius: 500px;
+          display: inline-block;
+          margin-right: 15px;
+          font-size: 15px;
+  
+        }
+
+        .input {
+          width: 57px;
+          height: 30px;
+          border: 2px solid teal;
+          display: inline;
+          border-style: dashed;
+          margin-left: 100px;
+          font-weight: bold;
+          color: darkblue;
+          margin: 5px 0;
+        }
+  
+  
+        .parilti-text {
+          height: 195px;
+          width: 100% !important;
+          
+        }
+        .activity-box-img{
+          position: relative;
+          width: 100%;
+          height: 251px;
+        }
+        .parilti-btn{
+          width: 175px;
+           height: 39px; 
+          font-size: 12px;
+          margin-bottom: 19px;
+        }
+  
+      
+  
+       /* .sevap-etkinlik2 {
+          width: 250px;
+          height: 200px;
+          float: right;
+          margin-top: 25px;
+          margin-right: 25px;
+        }*/
+  
+      
+  
+        .modal-body {
+          font-size: medium;
+        }
+  
+        .modal-header {
+          font-weight: bold;
+          color: darkred;
+        }
+  
+        
+  
+
+ 
+  
+        
+  
+  
+ 
+  
+        .night {
+          position: relative;
+          float: right;
+          background-size: cover;
+          background-repeat: no-repeat;
+          width: 100%;
+          height: 479px;
+        }
+  
+        #heart {
+          position: relative;
+          float: left;
+          margin-top: 33px;
+          width: 50px;
+          height: 50px;
+        }
+  
+        #heart:before,
+        #heart:after {
+          position: absolute;
+          content: "";
+          left: 50px;
+          top: 0;
+          width: 50px;
+          height: 80px;
+          background: red;
+          border-radius: 50px 50px 0 0;
+          transform: rotate(-45deg);
+          transform-origin: 0 100%;
+        }
+  
+        #heart:after {
+          left: 0;
+          transform: rotate(45deg);
+          transform-origin: 100% 100%;
+        }
+  
+        #gecel {
+          text-align: center;
+  
+          font-size: x-large;
+          margin-top: 69px;
+          margin-left: 15px;
+          margin-right: 11px;
+        }
+  
+        .night-light1 {
+          width: 225px;
+          height: 200px;
+          float: left;
+          margin-top: 25px;
+  
+        }
+  
+        .night-light2 {
+          width: 225px;
+          height: 200px;
+          float: left;
+          margin-top: 25px;
+          margin-left: 13px;
+  
+        }
+  
+        .night-light3 {
+          width: 225px;
+          height: 200px;
+          float: right;
+          margin-top: 25px;
+  
+        }
+  
+  
+        .img-1 {
+          width: 100%;
+          height: 221px;
+          position: relative;
+          float: left;
+  
+        }
+  
+        .img-1:hover {
+          opacity: 0.5;
+        }
+  
+        .div-1 {
+
+          position: relative;
+  
+        }
+  
+        .input-1 {
+          font-weight: bold;
+          position: relative;
+          float: left;
+          margin-top: 25px;
+          text-align: center;
+          width: 171px;
+          height: 35px;
+          border: 0px;
+          border-bottom: 1px solid darkblue;
+        }
+  
+        .div-2 {
+          position: relative;
+  
+   
+          float: left;
+        }
+  
+        .img-2 {
+          width: 100%;
+          height: 221px;
+          position: relative;
+          float: left;
+        }
+  
+        .img-2:hover {
+          opacity: 0.5;
+        }
+  
+        .div-3 {
+          position: relative;
+  
+          float: left;
+        }
+  
+        .img-3 {
+          width: 100%;
+          height: 221px;
+          position: relative;
+          float: left;
+  
+        }
+  
+        .img-3:hover {
+          opacity: 0.5;
+        }
+  
+        .multi-box-input {
+          width: 29%;
+          height: 37px;
+          margin-top: 31px;
+        }
+  
+        .multi-box-button {
+          background: darkblue;
+          margin-top: 41px;
+          width: 200px;
+          height: 37px;
+          color: white;
+        }
+  
+
+        .multi-box-all {
+          position: relative;
+          width: auto;
+          height: auto;
+          float: right;
+          margin: 0 10px 10px 0;
+          object-fit: cover;
+          border: 1px solid teal;
+          border-radius: 10px;
+        }
+
+
+  
+        .multi-box1 {
+          position: relative;
+          width: 200px;
+          height: 200px;
+          float: right;
+          margin-left: 10px;
+          border: 1px solid teal;
+          border-radius: 10px;
+        }
+  
+       
+  
+        .multi-box2 {
+          position: relative;
+          width: 200px;
+          height: 200px;
+          float: right;
+          border: 1px solid teal;
+          border-radius: 10px;
+          margin-left: 10px;
+        }
+  
+        .multi-box3 {
+          position: relative;
+          width: 200px;
+          height: 200px;
+          float: right;
+          border: 1px solid teal;
+          border-radius: 10px;
+          margin-left: 10px;
+        }
+  
+        .multi-box4 {
+          position: relative;
+          width: 200px;
+          height: 200px;
+          float: right;
+          border: 1px solid teal;
+          border-radius: 10px;
+          margin-top: 10px;
+          margin-left: 10px;
+        }
+  
+        .multi-box5 {
+          position: relative;
+          width: 200px;
+          height: 200px;
+          float: right;
+          border: 1px solid teal;
+          border-radius: 10px;
+          margin-top: 10px;
+          margin-left: 10px;
+        }
+  
+        .multi-box6 {
+          position: relative;
+          width: 200px;
+          height: 200px;
+          float: right;
+          border: 1px solid teal;
+          border-radius: 10px;
+          margin-top: 10px;
+          margin-left: 10px;
+        }
+  
+    .hoca{
+      color: rebeccapurple;
+    }
+  
+
+  
+        .heart-text{
+      
+      opacity: 0.5; 
+       background-size:cover; 
+       background-repeat: no-repeat; 
+       width: 100%; 
+      height: 457px;
+    }
+  
+        h3 {
+          position: relative;
+  
+          bottom: 401px;
+          left: 45px;
+          color: rgba(255, 255, 255, 0.7);
+          font-size: 50px;
+          font-family: tahoma;
+        }
+  
+    
+  
+        .bagis-türü {
+          font-weight: bold;
+        }
+  
+        .footer-kapsayici {
+      max-width: 1170px;
+  
+      margin: auto;
+    }
+  
+    .footer-satir {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+  
+    }
+  
+    ul {
+      list-style: none;
+    }
+  
+    .footer {
+      background-color: darkblue;
+      padding: 70px 0;
+      border-radius: 10px;
+    }
+  
+  
+    .footer-col h4 {
+      font-size: 18px;
+      color: #ffffff;
+      text-transform: capitalize;
+      margin-bottom: 35px;
+      font-weight: 500;
+      position: relative;
+    }
+  
+    .footer-col h4::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      bottom: -10px;
+      background-color: #e91e63;
+      height: 2px;
+      box-sizing: border-box;
+      width: 50px;
+    }
+  
+    .footer-col ul li:not(:last-child) {
+      margin-bottom: 10px;
+    }
+  
+    .footer-col ul li a {
+      font-size: 16px;
+      text-transform: capitalize;
+      color: #ffffff;
+      text-decoration: none;
+      font-weight: 400;
+      color: lavender;
+      display: block;
+      transition: all 0.3s ease;
+    }
+  
+    .footer-col ul li a:hover {
+      color: #ffffff;
+      padding-left: 8px;
+    }
+  
+    .footer-col .social-links a {
+      display: inline-block;
+      height: 40px;
+      width: 40px;
+      background-color: rgba(255, 255, 255, 0.5);
+      margin-right: 10px;
+      margin: 0 10px 10px 0;
+      text-align: center;
+      line-height: 40px;
+      border-radius: 50%;
+      color: #ffffff;
+  
+    }
+  
+    .footer-col .social-links a:hover {
+      color: #24262b;
+      background-color: #ffffff;
+    }
+  
+    .about-footer {
+      color: lavender;
+      font-family: 'Courier New', Courier, monospace;
+    }
+  
+    .footer-adres {
+      color: lavender;
+      font-family: 'Courier New', Courier, monospace;
+    }
+  
+    .footer-yasal {
+      text-align: center;
+
+      /* padding çevir */
+      color: lavender;
+  
+    }
+  
+
+    /*anasayfa cssler*/
+
+    .float {
+      position:fixed;
+      width:60px !important;
+      height:60px;
+      bottom:40px;
+      right:40px;
+      background-color:#25d366;
+      color:#FFF;
+      border-radius:50px;
+      text-align:center;
+      font-size:30px;
+      box-shadow: 2px 2px 3px #999;
+      z-index:100;
+      }
+      .btnSevap {
+          width: 100% !important;
+          height: 67px;
+          margin-top: 30px;
+          font-weight: bold;
+          background: darkblue;
+          display: inline;
+          color: white;
+          float: left;
+      }
+      .index {
+          font-weight: bold;
+          width: 100% !important;
+          height: 30px;
+          border: 2px solid teal;
+          display: inline;
+          border-style: dashed;
+          margin: 20px 0; 
+          color: darkblue;
+      }
+      
+      .sevap-box {
+          padding: 10px;
+          width: 100% !important;
+          height: 501px;
+          font: 14px Arial, Helvetica, sans-serif;
+          background: white;
+      }
+
+      .box-sevap {
+          box-shadow: 5px 5px 7px #000;
+          width: 100% !important;
+          height: 500px !important;
+          font: 14px Arial, Helvetica, sans-serif;
+          background: white;
+      }
+      .list-box {
+          box-shadow: 5px 5px 7px #000;
+          width: 100% !important;
+          height: 350px !important;
+          font: 14px Arial, Helvetica, sans-serif;
+          background: white;
+      }
+      .sevap-etkinlik2 {
+          width: 100% !important;
+          height: 195px;
+  
+          border-radius: 10px;
+      
+      }
+      
+      #box-3-img {
+          width: 100% !important;
+          
+      
+      }
+      #box-3p {
+          float: left;
+          text-indent: 10px;
+          padding-top: 10px;
+          text-align: justify;
+          color: cornflowerblue;
+          box-shadow: 5px 5px 7px #000;
+          width: 100% !important;
+          height: 300px;
+          line-height: 2.1;
+          font: 17px Arial, Helvetica, sans-serif;
+          background: white;
+      }
+      .end-img {
+          width: 100% !important;
+          height: 300px;
+          position: relative;
+          float: left;
+      }
+      .sevap-img {
+          width: 100% !important;
+          height: 500px;
+          display: block;
+          margin: 0 auto;
+          margin-top: 30px;
+          margin-bottom: 20px;
+      }
+      .btnSevap {
+          width: 100% !important;
+          height: 67px;
+         margin: 10px 0;
+          font-weight: bold;
+          background: darkblue;
+          display: inline;
+          color: white;
+          float: left;
+      }
+      .input {
+          width: 100% !important;
+          height: 30px;
+          border: 2px solid teal;
+          display: inline;
+          border-style: dashed;
+          margin-left: 100px;
+          font-weight: bold;
+          color: darkblue;
+      margin-top: 10px ;
+        }
+    
+      .lira {
+          font-weight: bold;
+          width: 100% !important;
+          height: 35px;
+          background: white;
+          color: darkblue;
+          text-align: center;
+          margin-top: 5px;
+          margin-bottom: 5px;
+          border-radius: 500px;
+          display: inline-block;
+          margin-right: 15px;
+          font-size: 15px;
+      }
+      #box-img {
+          width: 100% !important;
+          height: 350px;
+          border-radius: 10px;
+      }
+      
+  .list-box h1 {
+       width: 100% !important;
+        padding: 10px;
+          color: seagreen;
+        
+          text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+          text-align: center;
+      }
+      
+      .bagis-türü {
+          font-weight: bold;
+      width: 100% !important;
+        }
+        .multi-box-input {
+          width:29%;
+          height: 37px;
+          margin-top: 31px;
+      }
+      .multi-box-button {
+          background: darkblue;
+          margin-top: 41px;
+          width: 100% !important;
+          height: 37px;
+          color: white;
+      }
+      .multi-box-moneybox {
+          width: 100% !important;
+          height: 309px;
+          display: block;
+          margin: 0 auto;
+          margin-top: 33px;
+        
+      }
+      
+      .card-img {
+          width: 100% !important;
+          height: 455px !important;
+          border-radius: calc(0.25rem - 1px);
+      }
+      .heart-text {
+          opacity: 0.5;
+          background-size: cover;
+          background-repeat: no-repeat;
+          width: 100% !important;
+          height: 457px;
+      }
+      
+      .sevap-etkinlik1 {
+          width:100% !important;
+          height: 195px;
+      border-radius: 10px;
+      
+      }
+      
+      .night {
+          position: relative;
+          float: right;
+          background-size: cover;
+          background-repeat: no-repeat;
+          width: 100% !important;
+          height: 251x;
+      }
+      .night-light1 {
+          width: 25% !important;
+          height: 200px;
+          float: left;
+         margin: 15px 0 !important;
+      }
+      .night-light2 {
+          width: 25% !important;
+          height: 200px;
+          float: left;
+          margin-top: 15px !important;
+          margin-bottom: 15px !important;
+          margin-left: 13px;
+      }
+      
+      .night-light3 {
+          width: 25% !important;
+          height: 200px;
+      
+         margin: 15px 0 !important;
+          
+      }
+      .activity-box-img {
+          position: relative;
+          width: 100% !important;
+          height: 251px;
+      }
+      .parilti-btn {
+          width:100% !important;
+          height: 39px;
+          font-size: 12px;
+          margin-bottom: 19px;
+      }
+      .img-1 {
+          width: 100% !important;
+          height: 221px;
+          position: relative;
+      clear: both;
+      }
+      .btn-1 {
+          width: 100% !important;
+          height: 63px;
+          font: 12px Arial, Helvetica, sans-serif;
+          font-size: medium;
+          color: white;
+          
+          position: relative;
+          float: left;
+          display: block;
+      }
+      .input-1 {
+          font-weight: bold;
+          position: relative;
+          float: left;
+          margin-top: 25px;
+          text-align: center;
+          width: 100%;
+          height: 35px;
+          border: 0px;
+          border-bottom: 1px solid darkblue;
+      }
+      .img-2 {
+          width: 100% !important;
+          height: 221px;
+          position: relative;
+          float: left;
+      }
+      .img-3 {
+          width: 100% !important;
+          height: 221px;
+          position: relative;
+          float: left;
+      }
+      .footer-col{
+ 
+              margin-bottom: 30px !important;
+      
+          }
+      
+      
+      @media screen and (max-width: 420px) {
+              .multi-box1,
+              .multi-box2,
+              .multi-box3,
+              .multi-box4,
+              .multi-box5,
+              .multi-box6
+               {
+              width: 80%;
+              margin: 10px 10%;
+            }
+            .multi-box-all {
+              width: 80%;
+              margin: 10px 10%;
+            }
+      
+      
+            .div-1,
+            .div-2,
+            .div-3 {
+              margin: 0 auto;
+             
+      
+            }
+      
+            }
+                 
+     .kisacik{
+      color: #000;
+     }
+      
+      html{
+        scroll-behavior: smooth;
+      }
+      
+            body {
+              background: seashell;
+              position: relative;
+              padding: 0px;
+              margin: 0px;
+              
+              line-height: 1.5;
+              overflow-x: hidden;
+      
+            }
+            *{
+              box-sizing: border-box;
+            }
+            .float {
+                  position: fixed;
+                  width: 60px;
+                  height: 60px;
+                  bottom: 40px;
+                  right: 40px;
+                  background-color: #25d366;
+                  color: #FFF;
+                  border-radius: 50px;
+                  text-align: center;
+                  font-size: 30px;
+                  box-shadow: 2px 2px 3px #999;
+                  z-index: 100;
+              }
+      
+              .my-float {
+                  margin-top: 16px;
+              }
+          .list-box button{
+            margin: 10px 0;
+          } 
+      
+            .bagisimg {
+              width: 100%;
+              height: 500px;
+      
+            }
+      
+          
+      
+            .index {
+              font-weight: bold;
+              width: 50%;
+              height: 30px;
+              border: 2px solid teal;
+              display: inline;
+              border-style: dashed;
+              margin-left: 100px;
+              color: darkblue;
+              margin: 5px 0;
+            }
+      
+            #logo {
+              width: 121px;
+              height: 59px;
+              
+            }
+      
+      
+            #box-3-img {
+              width: 100%;
+              height: 300px;
+              float: left;
+            }
+      
+            #box-3p {
+              float: left;
+              text-indent: 10px;
+              padding-top: 10px;
+              text-align: justify;
+              color: cornflowerblue;
+              box-shadow: 5px 5px 7px #000;
+              width: 100%;
+              height: 300px;
+      line-height:2.1;
+              font: 17px Arial, Helvetica, sans-serif;
+              background: white;
+              overflow-y: scroll;
+      
+            }
+      
+            #box-img {
+              width: 100%;
+              height: 350px;
+              border-radius: 10px;
+            }
+      
+            .end-img {
+              width: 100%;
+              height: 300px;
+              position: relative;
+              float: left;
+            }
+      
+      
+            #vehicle1 {
+              cursor: pointer;
+      
+            }
+      
+            #vehicle2 {
+              cursor: pointer;
+            }
+      
+            #vehicle3 {
+              cursor: pointer;
+            }
+      
+            #vehicle4 {
+              cursor: pointer;
+            }
+      
+            #vehicle5 {
+              cursor: pointer;
+            }
+      
+            #vehicle6 {
+              cursor: pointer;
+      
+            }
+      
+ 
+      
+            #sevap-img {
+              width: 71%;
+              height: 500px;
+      
+              display: block;
+              margin: 0 auto;
+              margin-bottom: 20px;
+      
+            }
+      .box-sevap{
+       
+            width: 100% !important;
+            height: auto;
+            
+            font: 14px Arial, Helvetica, sans-serif;
+             background: white;
+             padding: 10px;
+      }
+            .btn-text {
+              font-weight: 700;
+              color: deepskyblue;
+              
+            }
+      
+         
+      .slider-btn {
+        width: 100%;
+        height: 71px;
+      
+        font-weight: bold;
+        background: darkblue;
+        display: inline;
+        color: white;
+        float: left;
+        font-size: 15px;
+      }
+            .btnSevap {
+              width: 100%;
+              height: 67px;
+              margin-top: 30px;
+              font-weight: bold;
+              background: darkblue;
+              display: inline;
+              color: white;
+              float: left;
+              font-size: 25px;
+            }
+            .btnSevap:hover {
+      
+              font-size: 17px;
+              color: white;
+      
+              background: darkblue
+            }
+            .lira {
+              font-weight: bold;
+              width: 25%;
+              height: 35px;
+              background: white;
+              color: darkblue;
+              text-align: center;
+              margin-top: 10px;
+              margin-bottom: 5px;
+              border-radius: 500px;
+              display: inline-block;
+              margin-right: 15px;
+              font-size: 15px;
+      
+            }
+      
+        
+      
+            .input {
+              width: 57px;
+              height: 30px;
+              border: 2px solid teal;
+              display: inline;
+              border-style: dashed;
+              margin-left: 100px;
+              font-weight: bold;
+              color: darkblue;
+              margin: 5px 0;
+            }
+      
+      
+            .parilti-text {
+              height: 195px;
+              width: 100%;
+             
+            }
+            .activity-box-img{
+              position: relative;
+              width: 100%;
+              height: 251px;
+            }
+            .parilti-btn{
+              width: 175px;
+               height: 39px; 
+              font-size: 12px;
+              margin-bottom: 19px;
+            }
+      
+      
+            /*.sevap-etkinlik2 {
+              width: 250px;
+              height: 200px;
+              float: right;
+              margin-top: 25px;
+              margin-right: 25px;
+            }*/
+      
+          
+      
+            .modal-body {
+              font-size: medium;
+              line-height: 1.9;
+            }
+      
+            .modal-title {
+              font-weight: bold;
+              color: darkred;
+              font-size: 21px;
+
+            }
+            .buton-badge{
+    height: 35px;
+  padding-top: 11px;
+  font-size:small;
+            }
+      
+        
+      
+          
+      
+            
+      
+      
+          
+      
+            .night {
+              position: relative;
+              float: right;
+              background-size: cover;
+              background-repeat: no-repeat;
+              width: 100%;
+              height: 479px;
+            }
+      
+            #heart {
+              position: relative;
+              float: left;
+              margin-top: 33px;
+              width: 50px;
+              height: 50px;
+            }
+      
+            #heart:before,
+            #heart:after {
+              position: absolute;
+              content: "";
+              left: 50px;
+              top: 0;
+              width: 50px;
+              height: 80px;
+              background: red;
+              border-radius: 50px 50px 0 0;
+              transform: rotate(-45deg);
+              transform-origin: 0 100%;
+            }
+      
+            #heart:after {
+              left: 0;
+              transform: rotate(45deg);
+              transform-origin: 100% 100%;
+            }
+      
+            #gecel {
+              text-align: center;
+      
+              font-size: x-large;
+              margin-top: 69px;
+              margin-left: 15px;
+              margin-right: 11px;
+            }
+      
+            .night-light1 {
+              width: 225px;
+              height: 200px;
+              float: left;
+              margin-top: 25px;
+      
+            }
+      
+            .night-light2 {
+              width: 225px;
+              height: 200px;
+              float: left;
+              margin-top: 25px;
+              margin-left: 13px;
+      
+            }
+      
+            .night-light3 {
+              width: 225px;
+              height: 200px;
+              float: right;
+              margin-top: 25px;
+      
+            }
+      
+      
+            .img-1 {
+              width: 100%;
+              height: 221px;
+              position: relative;
+              float: left;
+      
+            }
+      
+            .img-1:hover {
+              opacity: 0.5;
+            }
+      
+            .div-1 {
+   
+              position: relative;
+              float: left;
+      
+            }
+      
+            .input-1 {
+              font-weight: bold;
+              position: relative;
+              float: left;
+              margin-top: 25px;
+              text-align: center;
+              width: 171px;
+              height: 35px;
+              border: 0px;
+              border-bottom: 1px solid darkblue;
+            }
+      
+            .div-2 {
+              position: relative;
+  
+              float: left;
+            }
+      
+            .img-2 {
+              width: 100%;
+              height: 221px;
+              position: relative;
+              float: left;
+            }
+      
+            .img-2:hover {
+              opacity: 0.5;
+            }
+      
+            .div-3 {
+              position: relative;
+      
+              float: left;
+            }
+      
+            .img-3 {
+              width: 100%;
+              height: 221px;
+              position: relative;
+              float: left;
+      
+            }
+      
+            .img-3:hover {
+              opacity: 0.5;
+            }
+      
+            .multi-box-input {
+              width: 29%;
+              height: 37px;
+            }
+            .border-clos{
+              border: none;
+              border-bottom: 1px solid darkblue;
+              border-style: dotted;
+              color: darkblue;
+            }
+      
+            .multi-box-button {
+              background: darkblue;
+              margin-top: 41px;
+              width: 200px;
+              height: 37px;
+              color: white;
+            }
+      .moneybox-btn{
+        background-color: darkblue;
+        color: white;
+      }
+      .moneybox-btn:hover{
+        background: #122e44;
+        color: white;
+      }
+      
+            .multi-box1 {
+              position: relative;
+              width: 200px;
+              height: 200px;
+              float: right;
+              margin-left: 10px;
+              border: 1px solid teal;
+              border-radius: 10px;
+    
+            }
+      
+           .multi-box1:hover{
+            opacity: 0.5;
+           }
+      
+            .multi-box2 {
+              position: relative;
+              width: 200px;
+              height: 200px;
+              float: right;
+              border: 1px solid teal;
+              border-radius: 10px;
+              margin-left: 10px;
+            }
+            .multi-box2:hover{
+              opacity: 0.5;
+             }
+            .multi-box3 {
+              position: relative;
+              width: 200px;
+              height: 200px;
+              float: right;
+              border: 1px solid teal;
+              border-radius: 10px;
+              margin-left: 10px;
+            }
+            .multi-box3:hover{
+              opacity: 0.5;
+             }
+            .multi-box4 {
+              position: relative;
+              width: 200px;
+              height: 200px;
+              float: right;
+              border: 1px solid teal;
+              border-radius: 10px;
+              margin-top: 10px;
+              margin-left: 10px;
+            }
+            .multi-box4:hover{
+              opacity: 0.5;
+             }
+            .multi-box5 {
+              position: relative;
+              width: 200px;
+              height: 200px;
+              float: right;
+              border: 1px solid teal;
+              border-radius: 10px;
+              margin-top: 10px;
+              margin-left: 10px;
+            }
+            .multi-box5:hover{
+              opacity: 0.5;
+             }
+            .multi-box6 {
+              position: relative;
+              width: 200px;
+              height: 200px;
+              float: right;
+              border: 1px solid teal;
+              border-radius: 10px;
+              margin-top: 10px;
+              margin-left: 10px;
+            }
+            .multi-box6:hover{
+              opacity: 0.5;
+             }
+      
+        .hoca{
+          color: rebeccapurple;
+        }
+      
+     
+      
+            .heart-text{
+          
+          opacity: 0.5; 
+           background-size:cover; 
+           background-repeat: no-repeat; 
+           width: 100%; 
+          height: 457px;
+        }
+      
+            h3 {
+              position: relative;
+      
+              bottom: 401px;
+              left: 45px;
+              color: rgba(255, 255, 255, 0.7);
+              font-size: 50px;
+              font-family: tahoma;
+            }
+      
+        
+      
+            .bagis-türü {
+              font-weight: bold;
+            }
+      
+            .footer-kapsayici {
+          max-width: 1170px;
+      
+          margin: auto;
+        }
+      
+        .footer-satir {
+          display: flex;
+          flex-direction: row;
+          flex-wrap: wrap;
+      
+        }
+      
+        ul {
+          list-style: none;
+        }
+      
+        .footer {
+          background-color: darkblue;
+          padding: 70px 0;
+          border-radius: 10px;
+        }
+      
+
+      
+        .footer-col h4 {
+          font-size: 18px;
+          color: #ffffff;
+          text-transform: capitalize;
+          margin-bottom: 35px;
+          font-weight: 500;
+          position: relative;
+        }
+      
+        .footer-col h4::before {
+          content: '';
+          position: absolute;
+          left: 0;
+          bottom: -10px;
+          background-color: #e91e63;
+          height: 2px;
+          box-sizing: border-box;
+          width: 50px;
+        }
+      
+        .footer-col ul li:not(:last-child) {
+          margin-bottom: 10px;
+        }
+      
+        .footer-col ul li a {
+          font-size: 16px;
+          text-transform: capitalize;
+          color: #ffffff;
+          text-decoration: none;
+          font-weight: 400;
+          color: lavender;
+          display: block;
+          transition: all 0.3s ease;
+        }
+      
+        .footer-col ul li a:hover {
+          color: #ffffff;
+          padding-left: 8px;
+        }
+      
+        .footer-col .social-links a {
+          display: inline-block;
+          height: 40px;
+          width: 40px;
+          background-color: rgba(255, 255, 255, 0.5);
+          margin-right: 10px;
+          margin: 0 10px 10px 0;
+          text-align: center;
+          line-height: 40px;
+          border-radius: 50%;
+          color: #ffffff;
+      
+        }
+      
+        .footer-col .social-links a:hover {
+          color: #24262b;
+          background-color: #ffffff;
+        }
+      
+        .about-footer {
+          color: lavender;
+          font-family: 'Courier New', Courier, monospace;
+        }
+      
+        .footer-adres {
+          color: lavender;
+          font-family: 'Courier New', Courier, monospace;
+        }
+      
+        .footer-yasal {
+          text-align: center;
+          /* padding çevir */
+          color: lavender;
+      
+        }
+      #logo-text{
+        color:darkblue;
+        font-weight: bold;
+        font-size: xx-large;
+      }
+      /* Etkinlik Css'ler */
+
+
+      .activity-img {
+
+        width: 250px;
+        height: 200px;
+        float: left;
+        margin-top: 25px;
+        margin-left: 25px;
+        
+        }
+        .activity-p1{
+          
+          font-weight: 400;
+          color: darkred;
+          line-height: 1.7;
+          text-indent: 21px;
+          margin-top: 25px;
+        
+        }
+        
+        .activity-p2{
+          position: relative;
+         margin-right: 10px;
+          margin-top: 35px;
+          font-weight: 400;
+          color: darkred;
+          line-height: 1.7;
+          text-indent: 21px;
+        
+        }
+ .activity-texts h1{
+          position: relative;
+          font-weight: bold;
+          color: darkblue;
+          text-align: center;
+          font-size: 39px;
+         
+        }
+             
+        
+              .input-1 {
+                font-weight: bold;
+                position: relative;
+                float: left;
+                margin-top: 25px;
+                text-align: center;
+                width: 171px;
+                height: 35px;
+                border: 0px;
+                border-bottom: 1px solid darkblue;
+              }
+        
+              .btn-1 {
+                width: 41%;
+                height: 63px;
+                font: 12px Arial, Helvetica, sans-serif;
+                font-size: medium;
+                color: white;
+                background: dodgerblue;
+                position: relative;
+                float: left;
+                display: block;
+        
+              }
+
+              .butn-etknlk{
+                margin-left: 21px;
+                font-weight: bold;
+              }
+        
+
+
+            /* Gece Css'ler */ 
+          
+
+            .night-box{
+              box-shadow: 5px 5px 7px #000;
+            
+              background: white;
+            }
+      .night-box h2 {
+        position: relative;
+        font-weight: bold;
+        color: darkblue;
+        text-align: center;
+        font-size: 39px;
+      }
+            .night-p {
+              position: relative;
+              float: left;
+              text-indent: 15px;
+              padding-left: 25px;
+              padding-top: 20px;
+      
+            }
+      
+            .night-img {
+              position: relative;
+              float: right;
+              background-size: cover;
+              background-repeat: no-repeat;
+              width: 100%;
+              height: 441px;
+              border-radius: 10px;
+            }
+      
+           
+      
+      
+      
+      
+      
+            .btn-11 {
+              width: 41%;
+              height: 63px;
+              font: 12px Arial, Helvetica, sans-serif;
+              font-size: medium;
+              color: white;
+              background: darkblue;
+              position: relative;
+              float: left;
+              display: block;
+      
+            }
+      
+            .input-11 {
+              font-weight: bold;
+              position: relative;
+              float: left;
+      
+              text-align: center;
+      
+              height: 63px;
+              border: 0px;
+              border-bottom: 1px solid darkblue;
+              margin-left: 25px;
+              width: 199px;
+            }
+      
+            /* Gida Css'ler */
+
+            .stationary-p {
+              position: relative;
+              float: left;
+              text-indent: 15px;
+              padding-left: 25px;
+              padding-top: 20px;
+              line-height: 2;
+      
+            }
+            .stationary-img{
+              position: relative;
+              float: right;
+              background-size: cover;
+              background-repeat: no-repeat;
+              width: 100%;
+              height: 441px;
+              border-radius: 10px;
+            }
+            .stationary-header h1{
+              text-align: center;
+              color: darkblue;
+              font-size: 49px;
+            }
+      
+            /* Giyim Css'ler */
+
+
+            .orphan-p{
+  
+              font-weight: 400;
+              color: darkred;
+              line-height: 2;
+              text-indent: 21px;
+              margin-top: 25px;
+                  }
+                  .end-image{
+                    position: relative;
+                  
+                    background-size: cover;
+                    background-repeat: no-repeat;
+                    width: 81%;
+                    height: 441px;
+                    border-radius: 10px;
+                    margin-left: 100px;
+                  }
+
+
+                  /* Hakkimizda Css'ler */
+
+                  .video {
+                    position: relative;
+                    float: right;
+                   
+                    width: 100%;
+                    height: 421px;
+                    border-radius: 10px;
+                  }
+                  .video-p{
+                    font-weight: 400;
+                    
+                  }
+                  .about-us h1{
+                    color: darkblue;
+                    font-weight: bold;
+                  }
+                  .badge-hadis{
+                    position: relative;
+                    margin-right: 15px;
+                  }
+                  .baslik2{
+                    color: darkblue;
+            
+                  } 
+
+
+      /*  İLETİSİM Css'ler */
+      
+      
+      
+.inner_contact{          
+    padding: 50px 40px;
+    background: #2f363E;
+    border-radius: 5px;
+}
+.inner_contact form input,textarea{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    background: #24292D;
+    border: none;
+    resize: none;
+    border-radius: 25px;
+    transition: .3s ease-in;
+}
+.inner_contact form input,textarea{
+    color: #fff;
+}
+.inner_contact form input:focus{
+    letter-spacing: 1px;
+}
+.inner_contact form textarea{
+    letter-spacing: 1px;
+}
+.inner_contact form input:last-child:hover{
+    background: transparent;
+    color: #fff;
+    border-radius: 25px;
+}
+.inner_contact form input:last-child{
+    width: 31%;
+    margin-bottom: 5px;
+    background: darkblue;
+    border-radius: 10px;
+    border: 1px solid #999;
+    margin-left: 200px;
+   
+} 
+.iletisim-title{
+ 
+  color:darkblue;
+  font-weight: bold;
+  border-bottom: 3px solid dodgerblue;
+}
+
+.iletisim-title-div{
+  margin-bottom: 25px;
+}
+.inner_contact{
+    width: 100%;
+    height: 623px;
+}
+.card-title{
+color: darkblue;
+text-indent: 21px;
+font-weight: bold;
+}
+.card-text{
+  font-weight: 500;
+}
+
+
+
+/*  Kirtasiye Css'ler  */
+
+
+.stationary-header-kirtasiye h1{
+  padding-top: 35px;
+  color: darkblue;
+  text-align: center;
+}
+
+
+
+/*  Hediyelik Css'ler  */
+
+
+.stationary-header h1{
+  padding-top: 35px;
+  color: darkblue;
+  text-align: center;
+}
+
+.stationary-header p {
+  position: relative;
+  float: left;
+  text-indent: 15px;
+  padding-left: 25px;
+  padding-top: 20px;
+
+}
+.stationary-img{
+  position: relative;
+  float: right;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 441px;
+  border-radius: 10px;
+}
+
+
+
+.box-badge3{
+  display: block;
+}
+  /*  HESAP CSS'ler  */
+
+
+  .aciklama{
+    text-align: center;
+    font-weight: bold;
+    font-size: medium;
+    color: darkblue;
+    background: lemonchiffon;
+    border-radius: 10px;
+    border: 1px solid darkred;
+  }
+  
+
+.navs{
+  border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    position: relative;
+    
+  }
+  
+        .bank1 {
+  
+  width: 250px;
+  height: 200px;
+  float: left;
+  margin-top: 25px;
+  margin-left: 25px;
+  padding-bottom: 25px;
+  box-sizing: border-box;
+  
+  }  
+  .bank-kod1{
+  font-weight: bold;
+  color: seagreen;
+  position: relative;
+  
+  padding-top: 100px;
+  text-align: center;
+  }
+  
+  .banka-kod{
+  position: relative;
+  margin-left: 10px;
+  padding-bottom: 33px;
+  color: darkblue;
+  
+  }
+  .hsp-ad1{
+  position: relative;
+  float: left;
+  padding-right: 105px;
+  font-weight: bold;
+  color: seagreen;
+  }
+  
+  .iban{
+    position: relative;
+    float: left;
+    padding-right: 155px;
+    color: darkblue;
+   
+  }
+  
+  .t-body{
+    font-weight: 400;
+    color: darkblue;
+  }
+  .bank-kod2{
+  font-weight: bold;
+  color: goldenrod;
+  position: relative;
+  
+  padding-top: 100px;
+  text-align: center;
+  }
+  
+  .hsp-ad2{
+  position: relative;
+  float: left;
+  padding-right: 105px;
+  font-weight: bold;
+  color: goldenrod;
+  }
+  
+  .bank-kod3{
+  font-weight: bold;
+  color: lightseagreen;
+  position: relative;
+  
+  padding-top: 100px;
+  text-align: center;
+  }
+  
+  
+  .hsp-ad3{
+  position: relative;
+  float: left;
+  padding-right: 105px;
+  font-weight: bold;
+  color: lightseagreen;
+  }
+  .bank-kod4{
+  font-weight: bold;
+  color: red;
+  position: relative;
+  
+  padding-top: 100px;
+  text-align: center;
+  }
+  
+  .hsp-ad4{
+  position: relative;
+  float: left;
+  padding-right: 105px;
+  font-weight: bold;
+  color: red;
+  }
+  .bank-kod5{
+  font-weight: bold;
+  color: brown;
+  position: relative;
+  
+  padding-top: 100px;
+  text-align: center;
+  }
+  
+  .hsp-ad5{
+  position: relative;
+  float: left;
+  padding-right: 105px;
+  font-weight: bold;
+  color: brown;
+  }
+
+
+
+
+  /*  KAYİT CSS'ler */ 
+
+
+  .user-btn{
+    border-radius: 10px;
+    border: 1px solid silver;
+    padding-top: 9px;
+  }
+  .user-table{
+    justify-content: center;
+    align-items: center;
+    }
+    
+    
+    .user-box{
+     margin: auto;
+      border-radius: 15px;
+      border: 3px solid gray;
+      padding:5px;
+    }
